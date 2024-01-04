@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87514081140",
+    "project_id": "connectapp-ec74a",
+    "storage_bucket": "connectapp-ec74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87514081140:android:53eb7f7c2b3e0587f26e21",
+        "android_client_info": {
+          "package_name": "com.example.test_flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFP6EONAJqcNZakW5W4EOi191I4AkOmX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
